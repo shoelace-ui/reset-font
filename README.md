@@ -1,5 +1,5 @@
 # font-reset
-```font-reset``` opaque mixin
+```reset-font``` opaque mixin
 
 ## Installation
 ```sh
