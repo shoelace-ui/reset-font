@@ -1,14 +1,14 @@
 {
   "name": "shoelace-ui-reset-font",
   "version": "0.0.1",
-  "description": "Stylus font-reset function",
+  "description": "'reset-font` opaque mixin",
   "main": "index.styl",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/shoelace-ui/font-reset"
+    "url": "git://github.com/shoelace-ui/reset-font"
   },
   "keywords": [
     "font-reset",
@@ -17,7 +17,7 @@
   "author": "Brannon Lucas <brannonlucas@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shoelace-ui/font-reset/issues"
+    "url": "https://github.com/shoelace-ui/reset-font/issues"
   },
   "homepage": "https://github.com/shoelace-ui/reset-font"
 }
