@@ -1,5 +1,5 @@
 {
-  "name": "font-reset",
+  "name": "reset-font",
   "version": "0.0.1",
   "description": "Stylus font-reset function",
   "main": "index.styl",
