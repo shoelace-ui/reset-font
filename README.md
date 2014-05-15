@@ -8,4 +8,4 @@ $ npm install git://github.com/shoelace-ui/font-reset.git
 
 ## License
 
-[MIT]('./LICENSE')
+[MIT](./LICENSE)
