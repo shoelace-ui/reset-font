@@ -1,4 +1,4 @@
-# font-reset
+# reset-font
 ```reset-font``` opaque mixin
 
 ## Installation
