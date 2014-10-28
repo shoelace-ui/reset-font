@@ -1,11 +1,13 @@
 # reset-font
-```reset-font``` opaque mixin
 
-## Installation
-```sh
-$ npm install git://github.com/shoelace-ui/reset-font.git
+'reset-font` opaque mixin
+
+## Usage
+
+```stylus
+@require 'shoelace-ui-reset-font'
 ```
 
 ## License
 
-[MIT](./LICENSE)
+MIT
