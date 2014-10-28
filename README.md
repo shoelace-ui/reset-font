@@ -1,6 +1,6 @@
 # reset-font
 
-'reset-font` opaque mixin
+reset-font opaque mixin
 
 ## Usage
 
